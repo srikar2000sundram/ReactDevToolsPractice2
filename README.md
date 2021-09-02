@@ -1,2 +1,2 @@
-# ReactDevToolsPractice2
+# ReactDevToolsPractice
 Created with CodeSandbox
